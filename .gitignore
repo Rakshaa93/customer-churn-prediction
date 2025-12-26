@@ -13,3 +13,6 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+data/*.xlsx
+data/*.csv
